@@ -45,9 +45,9 @@ To replicate the process and practice Git workflows similar to this project, fol
 + Hammudi
 + Hussaen
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/license/mit) file for details.
 ## Acknowledgements
-Thank you to our instructions Ori and Rani
+Thank you to our instructors Ori and Rani
 ## Usage
 Feel free to customize the content and structure of the README.md file according to your preferences and the specific details of your project. If you have any further questions or need additional assistance, please let me know!
 ## Contacts 
